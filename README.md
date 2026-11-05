@@ -9,6 +9,7 @@ code shown.
 | Date | Session | Notes |
 |---|---|---|
 | 2026-09-16 | clj-aus #1 — Three native Clojures, one C game library | [notes](./2026-09-16-three-native-clojures) |
+| 2026-11-24 | clj-aus #2: Jolt since September, and Clojure on the Wii | [notes](./2026-11-24-jolt-and-clojure-on-the-wii) |
 
 ## Proposing a talk
 
