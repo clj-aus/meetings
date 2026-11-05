@@ -1,7 +1,7 @@
 # clj-aus #2: Jolt since September, and Clojure on the Wii
 
 **Tuesday 24 November 2026, 7:00–8:30pm AEDT · Online**
-Meetup event: _link added once it's published._
+[Meetup event](https://www.meetup.com/clojure-australia/events/317297998/)
 
 ## Talk
 
