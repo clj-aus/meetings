@@ -12,9 +12,9 @@ Scheme. This is a quick tour of what it can do now without a JVM, using
 PostgreSQL and SQLite, Ring, reitit-core and clj-http-lite unmodified, Transit
 and Fressian, and OpenTelemetry.
 
-**Clojure on the Wii.** The Wii has a 32-bit big-endian PowerPC, and Jolt had
-never produced code for a 32-bit or big-endian machine before. The talk walks
-through what it took, then plays four games live in the Dolphin emulator:
+**Clojure on the Wii.** The Wii has a 32-bit big-endian PowerPC. Jolt had run
+on 32-bit before, but never on a big-endian machine or built from another one,
+so the talk walks through what that took, then plays four games live in the Dolphin emulator:
 Balloon Pop, Star Catcher, Shake Race and Super Mona. The project goes open
 source on the night.
 
