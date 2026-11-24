@@ -24,12 +24,20 @@ _Added after the session._
 
 ## Source
 
-_Added after the session._
+[b12n-oss/wii-jolt](https://github.com/b12n-oss/wii-jolt) went public on the night. It has every game, the
+Chez Scheme patch, the Jolt build for the Wii, and guide pages from getting
+started to running a game on your own console.
+
+The Jolt fixes the talk mentions are upstream:
+[jolt-lang/jolt#1514](https://github.com/jolt-lang/jolt/pull/1514) (the 32-bit cross build) and
+[jolt-lang/jolt#1831](https://github.com/jolt-lang/jolt/pull/1831) (the hash on the Wii).
 
 ## Slides
 
-_Added after the session._
+[clojure-on-the-wii.pdf](./clojure-on-the-wii.pdf), one page per slide. Each page is an
+image, so the links in it can't be clicked. The live clips show as stills.
 
 ## Recording
 
-_Added after the session._
+The session was recorded. It needs editing before it goes online, and where
+it will be hosted isn't decided yet.
