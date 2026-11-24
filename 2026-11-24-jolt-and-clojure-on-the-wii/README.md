@@ -3,6 +3,15 @@
 **Tuesday 24 November 2026, 7:00–8:30pm AEDT · Online**
 [Meetup event](https://www.meetup.com/clojure-australia/events/317297998/)
 
+## How it went
+
+![clj-aus #2 on Jitsi: attendees at home and a group in one meeting room](./session.jpg)
+
+12 people came, some from home and a group together in one meeting room, and
+the session ran for almost an hour and a half. The Wii project went open
+source on the night as planned. We met on our own Jitsi Meet server, stood up
+in Sydney for the event, so the call had no time limit.
+
 ## Talk
 
 **Jolt since September.** Session #1 ran raylib under three native Clojures,
@@ -17,10 +26,6 @@ on 32-bit before, but never on a big-endian machine or built from another one,
 so the talk walks through what that took, then plays four games live in the Dolphin emulator:
 Balloon Pop, Star Catcher, Shake Race and Super Mona. The project goes open
 source on the night.
-
-## Lightning talks
-
-_Added after the session._
 
 ## Source
 
